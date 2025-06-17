@@ -13,24 +13,25 @@
       <br></br>
       <br></br>
       <p>
-        <a href="https://github.com/RobertoFORTs">
-         <img src="" width="30" alt="Instagram" />
-        </a>
-        &nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b30455234/">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.instagram.com/bobffortes?igsh=N2VoZ2x2NG51eXUy&utm_source=qr">
+         <img src="./assets/inst2.png" width="30" alt="Instagram" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical" alt="Top Languages" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&theme=radical" alt="GitHub Stats" />  
 
 ---
 
-<p align="center">
+<p align="center">""""
   ☕ Powered by coffee and code!
 </p>
