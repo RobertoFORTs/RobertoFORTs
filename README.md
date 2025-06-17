@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there! I'm Roberto Fortes
 
-<!--
-**RobertoFORTs/RobertoFORTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+🔭 Currently working with **Software Engineering**  
+🌱 Constantly learning about **System Design** and **Engineering Best Practices**  
+🚀 Deeply interested in **BackEnd Development** and **Scalable Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b30455234/)
+
+
+
+### 📈 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical)
+
+---
+
