@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Roberto Fortes
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" height="200" src="./assets/coffee-19613_256.gif">
 
 🔭 Currently working with **Software Engineering**  
 🌱 Constantly learning about **System Design** and **Engineering Best Practices**  
