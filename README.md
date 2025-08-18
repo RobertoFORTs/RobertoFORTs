@@ -10,21 +10,18 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical) 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;;">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <img src="./assets/icons8-gmail-novo-48.png"/>
+  <img src="./assets/inst2.png" width="40px" alt="Instagram"/>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b30455234/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/seuusuario/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:bobfortesneto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
+<div style="flex: 1; min-width: 300px;">
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -43,6 +40,7 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ---
 
