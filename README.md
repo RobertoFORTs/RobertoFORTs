@@ -5,22 +5,24 @@
     Award <strong>winner</strong> in Pantanal.DEV B3 trainee program. 
     Currently working with <strong>Software Engineering</strong> and studying at UFMS.
     Deeply interested in <strong>System Design</strong> and <strong>Engineering Best Practices</strong>.
-    </br>
-  </div>
-    <!-- Ícones sociais -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-    <img src="./assets/icons8-gmail-novo-48.png" width="40" alt="Gmail"/>
-    <img src="./assets/inst2.png" width="40" alt="Instagram"/>
   </div>
 </div>
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave" alt="Top Langs"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+      <img src="./assets/icons8-gmail-novo-48.png" width="40" alt="Gmail"/>
+      <img src="./assets/inst2.png" width="40" alt="Instagram"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <div style="flex: 1; min-width: 300px;">
