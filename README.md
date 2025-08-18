@@ -5,6 +5,7 @@
     Award <strong>winner</strong> in Pantanal.DEV B3 trainee program. 
     Currently working with <strong>Software Engineering</strong> and studying at UFMS.
     Deeply interested in <strong>System Design</strong> and <strong>Engineering Best Practices</strong>.
+    </br>
   </div>
     <!-- Ícones sociais -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
