@@ -10,16 +10,17 @@
 
 ---
 
-<p align="left">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave" alt="Top Langs"/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
-
-</p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  <img src="./assets/icons8-gmail-novo-48.png" width="40px" alt="Gmail"/>
-  <img src="./assets/inst2.png" width="40px" alt="Instagram"/>
-
+  <!-- Ícones sociais -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <img src="./assets/icons8-gmail-novo-48.png" width="40" alt="Gmail"/>
+    <img src="./assets/inst2.png" width="40" alt="Instagram"/>
+  </div>
+</div>
 
 
 <div style="flex: 1; min-width: 300px;">
