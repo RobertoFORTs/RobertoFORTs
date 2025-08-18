@@ -36,9 +36,9 @@
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&hide_rank=true&hide_border=true&theme=dark_wave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
 
 ---
 
