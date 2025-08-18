@@ -10,16 +10,15 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;;">
+<p align="left">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  <img src="./assets/icons8-gmail-novo-48.png"/>
+  <img src="./assets/icons8-gmail-novo-48.png" width="40px" alt="Gmail"/>
   <img src="./assets/inst2.png" width="40px" alt="Instagram"/>
 
-
-</div>
+</p>
 
 <div style="flex: 1; min-width: 300px;">
 
