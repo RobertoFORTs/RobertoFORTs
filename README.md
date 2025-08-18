@@ -13,10 +13,8 @@
 ### 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start;">
-    <div style="flex: 1; min-width: 300px;">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
-    </div>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
   <div style="flex: 1; min-width: 300px;">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
