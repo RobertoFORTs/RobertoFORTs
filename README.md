@@ -12,7 +12,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start;">
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&hide_rank=true&hide_border=true&theme=dark_wave)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
   <div style="flex: 1; justify-content: center; min-width: 300px;">
   <!-- Languages -->
