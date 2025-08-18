@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
+
 </p>
 
 ---
@@ -38,7 +41,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&hide_rank=true&hide_border=true&theme=dark_wave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave)
 
 ---
 
