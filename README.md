@@ -1,11 +1,10 @@
-<h1>👋 Hi there! I'm Roberto Fortes</h1>
+<h1>Hi there! I'm Roberto Fortes</h1>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
 
   <div style="flex: 1; min-width: 250px;">
-    <p>🔭 Currently working with <strong>Software Engineering</strong></p>
-    <p>🌱 Constantly learning about <strong>System Design</strong> and <strong>Engineering Best Practices</strong></p>
-    <p>🚀 Deeply interested in <strong>BackEnd Development</strong> and <strong>Scalable Systems</strong></p>
+    <p>Award <strong>winner</strong> in Pantanal.DEV B3 trainee program. Currently working with <strong>Software Engineering</strong> and studying at UFMS.
+    Deeply interested in <strong>System Design</strong> and <strong>Engineering Best Practices</strong></p>
   </div>
 </div>
 
