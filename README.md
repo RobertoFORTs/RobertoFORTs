@@ -36,10 +36,9 @@
 
 ### GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&hide_rank=true&hide_border=true&theme=dark_wave)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RobertoFORTs&show_icons=true&hide_rank=true&hide_border=true&theme=dark_wave)
+
 
 ---
 
