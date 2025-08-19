@@ -9,7 +9,7 @@
 </div>
 
 ---
-<table cellpadding="0" cellspacing="0">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave" />
@@ -21,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
