@@ -28,18 +28,12 @@
   </a>
 </p>  
 
-**`Software Engineer`**  
-_Engineering through excelence_
-
-
-
-
-
+> _Engineering through excellence_ 
 
 I'm Roberto Fortes, and I am enthusiastic about software architecture and leadership. Currently, I'm about to graduate in software engineering at UFMS - Federal University of Mato Grosso do Sul, from which I'm grateful for the incredible opportunities it has provided me, both in social and profissional development.
 
-🏆 Award winner in the [Pantanal.DEV B3 trainee program](https://content.b3.com.br/pantanal-dev/#sobre) - _Peixe Dourado Edition_    
-💼 Intern experience at Compass UOL and [LEDES](https://www.linkedin.com/company/ledes/posts/?feedView=all)  
+🚀 Award winner in the [Pantanal.DEV B3 trainee program](https://content.b3.com.br/pantanal-dev/#sobre) - _Peixe Dourado Edition_    
+💻 Intern experience at Compass UOL and [LEDES](https://www.linkedin.com/company/ledes/posts/?feedView=all)  
 🤝 Volunteered at [Pet Sistemas](https://petsistemas.ufms.br/) during first year of college
 
 ---
