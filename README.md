@@ -2,7 +2,7 @@
 <p align="left"> 
  <a 
     style="margin-right: 10px;" 
-    href="https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b25455234/">
+    href="https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b30455234/">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       width="25" 
