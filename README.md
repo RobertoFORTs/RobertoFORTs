@@ -1,6 +1,4 @@
 # 👨‍💻 Roberto Fortes
-**`Software Engineer`**  
-_Engineering through excelence_
 <p align="left"> 
  <a 
     style="margin-right: 10px;" 
@@ -29,6 +27,10 @@ _Engineering through excelence_
       alt="Instagram"/>
   </a>
 </p>  
+
+**`Software Engineer`**  
+_Engineering through excelence_
+
 
 
 
@@ -59,7 +61,6 @@ I'm Roberto Fortes, and I am enthusiastic about software architecture and leader
   <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="25" height="25" alt="GitLab"/>
 </p>
 
-<br>
 
 #### 🧪 Stats
 <p>
