@@ -1,51 +1,62 @@
-<h1>Hi there! I'm Roberto Fortes 👋</h1>
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    Award <strong>winner</strong> in Pantanal.DEV B3 trainee program. 
-    Currently working with <strong>Software Engineering</strong> and studying at UFMS.
-    Deeply interested in <strong>System Design</strong> and <strong>Engineering Best Practices</strong>.
+# 👨‍💻 Roberto Fortes
+<div style="display: flex; justify-content: space-between; align-items: top;">
+  <div>
+    <p><strong>Software Engineer</strong></p>
+    <p>
+    <em>Engineering through excellence</em>
+    </p>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/roberto-fernandes-fortes-neto-b30455234/" style="margin-right: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" style="" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:bobfortesneto@gmail.com" style="margin-right: 10px;">
+      <img src="./assets/icons8-gmail-novo-48.png" width="35" alt="Gmail"/>
+    </a>
+    <a href="https://www.instagram.com/bobffortes/">
+      <img src="./assets/inst2.png" width="35" alt="Instagram"/>
+    </a>
   </div>
 </div>
 
----
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=dark_wave" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-      <img src="./assets/icons8-gmail-novo-48.png" width="40" alt="Gmail"/>
-      <img src="./assets/inst2.png" width="40" alt="Instagram"/>
-    </td>
-  </tr>
-</table>
+I'm Roberto Fortes, and I am enthusiastic about software architecture and leadership. Currently, I'm about to graduate in software engineering at UFMS - Federal University of Mato Grosso do Sul, from which I'm grateful for the incredible opportunities it has provided me, both in social and profissional development.
 
-
-
-
-<div style="flex: 1; min-width: 300px;">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+🏆 Award winner in the [Pantanal.DEV B3 trainee program](https://content.b3.com.br/pantanal-dev/#sobre) - _Peixe Dourado Edition_    
+💼 Intern experience at Compass UOL and [LEDES](https://www.linkedin.com/company/ledes/posts/?feedView=all)  
+🤝 Volunteered at [Pet Sistemas](https://petsistemas.ufms.br/) during first year of college
 
 ---
+### 🛠️ Stack
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="30" alt="Java"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+  <img style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
+  <img style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" height="30" alt="spring"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" height="30" alt="NestJS"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30" alt="FastAPI"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="NextJS"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
+  <img style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30" alt="GitLab"/>
+<br>
+<br>
+
+### 🧪 Stats
+<p>
+  <img
+    align = "left"
+    height = 200
+    style = "padding-right: 10px;"
+    src = "https://github-readme-stats.vercel.app/api?username=RobertoFORTs&hide=stars&show=prs_merged_percentage&show_icons=true&hide_rank=true&theme=tokyonight&custom_title=Roberto's"
+  />
+  <img 
+    align = "left"
+    height = 200
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoFORTs&layout=compact&theme=tokyonight&custom_title=Tecnologies&langs_count=6"
+  /> 
+</p>
 
 
